@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SparkFun_ProMicro
+D MCU Module, atmega32u4
+K sparkfun promicro arduino atmega32u4
+F https://github.com/sparkfun/Pro_Micro/raw/master/Documentation/ProMicro16MHzv2.pdf
+$ENDCMP
+#
+#End Doc Library
