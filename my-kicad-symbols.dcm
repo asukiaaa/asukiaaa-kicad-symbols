@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP NJM12888F33
+D http://akizukidenshi.com/catalog/g/gI-10675/
+$ENDCMP
+#
 $CMP PowerRelay_G7L-X
 D https://www.fa.omron.co.jp/data_pdf/cat/g7l-x_cdpa-017_1_5.pdf
 $ENDCMP
