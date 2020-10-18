@@ -12,6 +12,10 @@ $CMP PowerRelay_G7L-X
 D https://www.fa.omron.co.jp/data_pdf/cat/g7l-x_cdpa-017_1_5.pdf
 $ENDCMP
 #
+$CMP SiT2001B-MEMS-Clock-Generator
+D https://akizukidenshi.com/catalog/g/gI-11094/
+$ENDCMP
+#
 $CMP SparkFun_ProMicro
 D MCU Module, atmega32u4
 K sparkfun promicro arduino atmega32u4
