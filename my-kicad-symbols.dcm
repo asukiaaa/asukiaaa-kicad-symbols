@@ -8,6 +8,10 @@ $CMP NJW4183U3
 D http://akizukidenshi.com/catalog/g/gI-13853/
 $ENDCMP
 #
+$CMP PowerRelay_G7EB
+D https://www.fa.omron.co.jp/data_pdf/cat/g7eb_ds_j_1_6.pdf
+$ENDCMP
+#
 $CMP PowerRelay_G7L-X
 D https://www.fa.omron.co.jp/data_pdf/cat/g7l-x_cdpa-017_1_5.pdf
 $ENDCMP
