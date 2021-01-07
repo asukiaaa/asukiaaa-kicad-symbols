@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AM2320
+D Temperature and humidity sendsor, I2C, https://akizukidenshi.com/download/ds/aosong/AM2320.pdf
+$ENDCMP
+#
 $CMP NJM12888F33
 D http://akizukidenshi.com/catalog/g/gI-10675/
 $ENDCMP
