@@ -30,4 +30,8 @@ K sparkfun promicro arduino atmega32u4
 F https://github.com/sparkfun/Pro_Micro/raw/master/Documentation/ProMicro16MHzv2.pdf
 $ENDCMP
 #
+$CMP TPS7A16
+F https://www.ti.com/lit/ds/symlink/tps7a16.pdf
+$ENDCMP
+#
 #End Doc Library
