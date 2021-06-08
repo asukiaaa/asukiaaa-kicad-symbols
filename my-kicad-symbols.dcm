@@ -13,6 +13,10 @@ $CMP NJM12888F33
 D http://akizukidenshi.com/catalog/g/gI-10675/
 $ENDCMP
 #
+$CMP NJM2866F33
+D https://akizukidenshi.com/download/ds/njr/NJM2865_NJM2866_J.pdf
+$ENDCMP
+#
 $CMP NJW4183U3
 D http://akizukidenshi.com/catalog/g/gI-13853/
 $ENDCMP
