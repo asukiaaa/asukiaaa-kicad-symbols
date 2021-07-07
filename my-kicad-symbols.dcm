@@ -9,6 +9,10 @@ K Diode, Array
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=3305&prodName=1SS309
 $ENDCMP
 #
+$CMP HGateDriver_A3921
+F https://akizukidenshi.com/download/ds/allegro/a3921.pdf
+$ENDCMP
+#
 $CMP NJM12888F33
 D http://akizukidenshi.com/catalog/g/gI-10675/
 $ENDCMP
