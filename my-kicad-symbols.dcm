@@ -43,6 +43,10 @@ $CMP SiT2001B-MEMS-Clock-Generator
 D https://akizukidenshi.com/catalog/g/gI-11094/
 $ENDCMP
 #
+$CMP SlideSwitch-4P-CUS-14B
+F https://www.nidec-copal-electronics.com/e/catalog/switch/cus.pdf
+$ENDCMP
+#
 $CMP SparkFun_ProMicro
 D MCU Module, atmega32u4
 K sparkfun promicro arduino atmega32u4
