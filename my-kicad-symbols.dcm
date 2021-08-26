@@ -13,6 +13,14 @@ $CMP HGateDriver_A3921
 F https://akizukidenshi.com/download/ds/allegro/a3921.pdf
 $ENDCMP
 #
+$CMP LCD_MSPxxxx_with_touch_and_sd
+F http://www.lcdwiki.com/3.2inch_SPI_Module_ILI9341_SKU:MSP3218
+$ENDCMP
+#
+$CMP LCD_MSPxxxx_without_sd
+F http://www.lcdwiki.com/2.2inch_SPI_Module_ILI9341_SKU:MSP2202
+$ENDCMP
+#
 $CMP NJM12888F33
 D http://akizukidenshi.com/catalog/g/gI-10675/
 $ENDCMP
