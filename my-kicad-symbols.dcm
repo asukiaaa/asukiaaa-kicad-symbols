@@ -41,6 +41,12 @@ $CMP PowerRelay_G7L-X
 D https://www.fa.omron.co.jp/data_pdf/cat/g7l-x_cdpa-017_1_5.pdf
 $ENDCMP
 #
+$CMP Q_NMOS_dual_NTTFD4D0N04HL
+D N-MOSFET transistor, gate/source/drain
+K transistor NMOS N-MOS N-MOSFET
+F ~
+$ENDCMP
+#
 $CMP SW_Slide_with_cover
 D Switch, single pole double throw
 K switch single-pole double-throw spdt ON-ON
