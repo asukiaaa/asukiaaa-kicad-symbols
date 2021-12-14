@@ -79,6 +79,10 @@ $CMP regulator_3v3_TAR5S33
 F https://akizukidenshi.com/download/TAR5S33.pdf
 $ENDCMP
 #
+$CMP regulator_48v_to_5v
+F https://ja.aliexpress.com/item/2041060546.html?spm=a2g0s.9042311.0.0.41804c4d3Aq2aa
+$ENDCMP
+#
 $CMP regulator_5V6A_MYMGK00506ERSR_breakout
 F https://akizukidenshi.com/download/ds/akizuki/AE-MYMGK00506ERSR-5V0.pdf
 $ENDCMP
