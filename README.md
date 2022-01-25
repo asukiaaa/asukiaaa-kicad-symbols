@@ -1,4 +1,4 @@
-# my-kicad-symbols
+# asukiaaa-kicad-symbols
 
 Symbols for KiCad to use on my personal projects.
 
